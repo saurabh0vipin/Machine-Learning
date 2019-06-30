@@ -1,7 +1,7 @@
-### Machine-Learning-AZ
+# Machine-Learning-AZ
 includes basic Machine Learning Algorithms and its Implementation in python.
 
-### Content covered
+## Content covered
     Part 1 - Data Preprocessing
     Part 2 - Regression:
         i). Simple Linear Regression
