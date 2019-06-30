@@ -1,7 +1,7 @@
-# Machine-Learning-AZ
+### Machine-Learning-AZ
 includes basic Machine Learning Algorithms and its Implementation in python.
 
-# Content covered
+### Content covered
     Part 1 - Data Preprocessing
     Part 2 - Regression:
         i). Simple Linear Regression
@@ -21,21 +21,7 @@ includes basic Machine Learning Algorithms and its Implementation in python.
        ii). Hierarchical Clustering
     Part 5 - Association Rule Learning:
         i). Apriori
-    Part 6 - Reinforcement Learning:
-        i). Upper Confidence Bound
-       ii). Thompson Sampling
-    Part 7 - Natural Language Processing:
+    Part 6 - Natural Language Processing:
         i). Bag-of-words model algorithms for NLP
-    Part 8 - Deep Learning:
-        i). Artificial Neural Networks
-       ii). Convolutional Neural Networks
-    Part 9 - Dimensionality Reduction:
-        i). PCA
-       ii). LDA
-      iii). Kernel PCA
-    Part 10 - Model Selection & Boosting:
-        i). k-fold Cross Validation
-       ii). Parameter Tuning
-      iii). Grid Search
-       iv). XGBoost
+
 
